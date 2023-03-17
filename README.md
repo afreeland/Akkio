@@ -1,3 +1,16 @@
+# Akkio Take Home
+
+### Requirements
+- Should be case sensitive
+- Generation should be consistent (deterministic)
+- Reduce collision possibilities
+  
+
+_Original Assignment_  
+https://akkio.notion.site/Akkio-Take-home-Problems-3d8044df4eea4a5a85edaba31088924a
+
+   ![Sample Generation](Sample.png "Sample Generation") 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
